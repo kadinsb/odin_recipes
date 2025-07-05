@@ -1,0 +1,1 @@
+Hi~ I'm Kadin. I'm currently learning to code at The Odin Project and am going to start a recipes project. 
